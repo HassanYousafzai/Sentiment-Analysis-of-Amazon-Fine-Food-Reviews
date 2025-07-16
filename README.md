@@ -43,7 +43,7 @@ nltk.download('stopwords')
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Sentiment-Analysis-of-Amazon-Fine-Food-Reviews.git
+   git clone https://github.com/HassanYousafzai/Sentiment-Analysis-of-Amazon-Fine-Food-Reviews.git
    cd Sentiment-Analysis-of-Amazon-Fine-Food-Reviews
    ```
 2. Install the required dependencies (see above).
@@ -109,6 +109,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The Sentiment140 dataset creators for providing the data.
 - TensorFlow and NLTK communities for their excellent libraries and documentation.
 
-
-
-You can copy the content within the `<xaiArtifact>` tags (excluding the tags themselves) and paste it directly into your `README.md` file on GitHub. Make sure to replace `your-username` in the clone command with your actual GitHub username.
